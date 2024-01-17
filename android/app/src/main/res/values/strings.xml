@@ -1,0 +1,7 @@
+<?xmlns version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facebook_app_id">349686624521463</string>
+    <string name="fb_login_protocol_scheme">fb349686624521463</string>
+    <string name="facebook_client_token">9af4a3629b1b1435dda305f9022263a3</string>
+    <string name="app_name">InstaClone</string>
+</resources>
